@@ -1,9 +1,6 @@
 ### Hi there 👋
 
 <!--
-**Antonio-Leitao/Antonio-Leitao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -16,7 +13,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <b>&nbsp;ML&nbsp;&nbsp;</b> • <b>&nbsp;&nbsp;WEB&nbsp;&nbsp;</b> • <b>&nbsp;Tools</b>
+  <b>Machine Learning&nbsp;&nbsp;</b> • <b>&nbsp;&nbsp;Web&nbsp;&nbsp;</b> • <b>&nbsp;Tools&emsp;&emsp;&emsp;&emsp;</b>
 </p>
 
 <p align="center">
@@ -41,7 +38,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/scipy/gray" /> &emsp;&emsp;&emsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/css3/gray" /> &emsp;&emsp;&emsp;
-  &emsp;&emsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/gray" />
 </p>
 <p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/gray" /> &emsp;&emsp;&emsp;
@@ -53,5 +50,4 @@ Here are some ideas to get you started:
   &emsp;&emsp;&emsp;&emsp;
   &emsp;&emsp;&emsp;
 </p>
-
 
