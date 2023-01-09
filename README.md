@@ -12,9 +12,10 @@
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
-  <b>Machine Learning&nbsp;&nbsp;</b> • <b>&nbsp;&nbsp;Web&nbsp;&nbsp;</b> • <b>&nbsp;Tools&emsp;&emsp;&emsp;&emsp;</b>
+<h3 align = "center">
+  <p>ML&nbsp;&nbsp; • &nbsp;&nbsp;Web&nbsp;&nbsp; • &nbsp;&nbsp;Tools
 </p>
+</h3>
 
 <p align="center">
   <img height="50" width="50" src="https://cdn.simpleicons.org/python" />&emsp;&emsp;
@@ -50,4 +51,6 @@
   &emsp;&emsp;&emsp;&emsp;
   &emsp;&emsp;&emsp;
 </p>
+
+
 
