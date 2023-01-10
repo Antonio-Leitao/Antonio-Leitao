@@ -21,7 +21,7 @@ List of projects and publications <a href="https://Antonio-Leitao.github.io">her
   <img height="50" width="50" src="https://cdn.simpleicons.org/python" />&emsp;&emsp;
   <img height="50" width="50" src="https://cdn.simpleicons.org/javascript" />&emsp;&emsp;
   <img height="50" width="50" src="https://cdn.simpleicons.org/git" />&emsp;&emsp;
-  <img height="50" width="50" src="https://cdn.simpleicons.org/rust" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/rust/B2292D" />
 </p>
 
 
