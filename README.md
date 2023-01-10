@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=Antonio-Leitao.Antonio-Leitao&left_color=green&right_color=red)
 <!--
 
 - 🔭 I’m currently working on ...
