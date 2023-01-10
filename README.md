@@ -3,11 +3,10 @@
 </h2>
 
 <ul>
-<li>Mathematician by trade, webdev and frontent on the side.</li>
+<li>Mathematician by trade, webdev and frontend on the side.</li>
 <li>Researching <a href="https://www.projectceti.org/">whale speech</a> at <a href="https://centai.eu/home">CENTAI</a>.</li>
 <li>Learning <strong>Rust</strong> and <strong>Flutter</strong>.
 <li>List of projects and publications <a href="https://Antonio-Leitao.github.io">here</a>.</li>
-<li>Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
 </ul>
 
 
