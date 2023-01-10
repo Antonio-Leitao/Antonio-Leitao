@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=Antonio-Leitao.Antonio-Leitao&left_color=green&right_color=red)
+![](https://komarev.com/ghpvc/?username=Antonio-Leitao&style=flat)
+
 <!--
 
 - 🔭 I’m currently working on ...
