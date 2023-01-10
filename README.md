@@ -1,3 +1,5 @@
+<img src="assets/banner_light.png#gh-light-mode-only">
+<img src="assets/banner_dark.png#gh-dark-mode-only">
 
 <h2 align="center">
 </h2>
