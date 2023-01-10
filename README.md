@@ -2,14 +2,12 @@
 <h2 align="center">
 </h2>
 
-<ul>
-<li>Mathematician by trade, webdev and frontend on the side.</li>
-<li>Researching <a href="https://www.projectceti.org/">whale speech</a> at <a href="https://centai.eu/home">CENTAI</a>.</li>
-<li>Learning <strong>Rust</strong> and <strong>Flutter</strong>.
-<li>List of projects and publications <a href="https://Antonio-Leitao.github.io">here</a>.</li>
-</ul>
-
-
+<p align="center">
+  Researching <a href="https://www.projectceti.org/">whale speech</a> at <a href="https://centai.eu/home">CENTAI</a>.<br>
+  Mathematician by trade, webdev and frontend on the side.<br>
+Currently learning <strong>Rust</strong> in order to beat Numpy.<br>
+List of projects and publications <a href="https://Antonio-Leitao.github.io">here</a>.<br>
+</p>
 <!--
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonio-leitao&show_icons=true&locale=en&layout=compact" alt="antonio-leitao" /></p>
 -->
