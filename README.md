@@ -1,9 +1,6 @@
 <img src="assets/header_light.png#gh-light-mode-only">
 <img src="assets/header_dark.png#gh-dark-mode-only">
 
-<h2 align="center">
-</h2>
-
 <p align="center">
   Researching <a href="https://www.projectceti.org/">whale speech</a> at <a href="https://centai.eu/home">CENTAI</a>.<br>
   Mathematician by trade, webdev and frontend on the side.<br>
