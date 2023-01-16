@@ -3,7 +3,7 @@
   <img src="assets/header_dark.png#gh-dark-mode-only"width="800"/>
 </p>
 <p align="center">
-  Researching <a href="https://www.projectceti.org/">whale speech</a> at <a href="https://centai.eu/home">CENTAI</a>.<br>
+  Researching <a href="https://www.projectceti.org/">whalespeak</a> at <a href="https://centai.eu/home">CENTAI</a>.<br>
   Mathematician by trade, webdev and frontend on the side.<br>
 Currently learning <strong>Rust</strong> in order to beat Numpy.<br>
 List of projects and publications <a href="https://Antonio-Leitao.github.io">here</a>.<br>
