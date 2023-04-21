@@ -29,22 +29,21 @@ List of projects and publications <a href="https://Antonio-Leitao.github.io">her
   <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow/gray" /> &emsp;&emsp;&emsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/svelte/gray" /> &emsp;&emsp;&emsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/github/gray" />&emsp;&emsp;&emsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/firebase/gray" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/go/gray" />
 </p>
 
 <p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/numpy/gray" /> &emsp;&emsp;&emsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/html5/gray" /> &emsp;&emsp;&emsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/gnubash/gray" />&emsp;&emsp;&emsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/gray" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/firebase/gray" />
 </p>
 
 <p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/scipy/gray" /> &emsp;&emsp;&emsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/css3/gray" /> &emsp;&emsp;&emsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/gray" />
-  &emsp;&emsp;&emsp;
-  &emsp;&emsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/gray" />&emsp;&emsp;&emsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/gray" />
 </p>
 <p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/gray" /> &emsp;&emsp;&emsp;
