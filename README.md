@@ -1,7 +1,7 @@
-<p align="center">
-  <img src="assets/header_light.png#gh-light-mode-only" width="800"/>
-  <img src="assets/header_dark.png#gh-dark-mode-only"width="800"/>
-</p>
+<h2 align="center">
+  António Leitão
+</h2>
+  
 <p align="center">
   Researching <a href="https://www.projectceti.org/">whalespeak</a> at <a href="https://centai.eu/home">CENTAI</a>.<br>
   Mathematician by trade, webdev and frontend on the side.<br>
