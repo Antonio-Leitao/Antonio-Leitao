@@ -1,16 +1,22 @@
 <h2 align="center">
   António Leitão
 </h2>
-  
+
+
+
 <p align="center">
-  Researching <a href="https://www.projectceti.org/">whalespeak</a> at <a href="https://centai.eu/home">CENTAI</a>.<br>
+  PhD student at Scuola Normale Superiore, Pisa<br>
+  Applied Topology • Machine Learning • Researching <a href="https://www.projectceti.org/">whalespeak</a> at <a href="https://www.projectceti.org">CETI</a>.<br>
   Mathematician by trade, webdev and frontend on the side.<br>
-Currently learning <strong>Rust</strong> to try and beat Numpy.<br>
-List of projects and publications <a href="https://Antonio-Leitao.github.io">here</a>.<br>
+List of projects and publications <a href="https://antonio-leitao.github.io">here</a>.<br>
 </p>
-<!--
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=antonio-leitao&show_icons=true&locale=en&layout=compact" alt="antonio-leitao" /></p>
--->
+
+<h3 align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antonio-leitao&layout=compact)
+  
+</h3>
+
 
 <h3 align = "center">
   <p>&nbsp;&nbsp;&emsp;ML&nbsp;&nbsp; • &nbsp;&nbsp;Web&nbsp;&nbsp; • &nbsp;&nbsp;Tools&nbsp; • &nbsp;Learning
@@ -42,8 +48,8 @@ List of projects and publications <a href="https://Antonio-Leitao.github.io">her
 <p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/scipy/gray" /> &emsp;&emsp;&emsp;
   <img height="32" width="32" src="https://cdn.simpleicons.org/css3/gray" /> &emsp;&emsp;&emsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode/gray" />&emsp;&emsp;&emsp;
-  <img height="32" width="32" src="https://cdn.simpleicons.org/flutter/gray" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/neovim/gray" />&emsp;&emsp;&emsp;
+  <img height="32" width="32" src="https://cdn.simpleicons.org/fortran/gray" />
 </p>
 <p align="center">
   <img height="32" width="32" src="https://cdn.simpleicons.org/pandas/gray" /> &emsp;&emsp;&emsp;
@@ -57,6 +63,9 @@ List of projects and publications <a href="https://Antonio-Leitao.github.io">her
   &emsp;&emsp;&emsp;&emsp;
   &emsp;&emsp;&emsp;&emsp;
 </p>
+
+
+
 
 
 <h3 align="right">
