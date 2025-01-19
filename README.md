@@ -5,7 +5,9 @@
 
 
 <p align="center">
-  PhD student at Scuola Normale Superiore, Pisa<br>
+  PhD Student<br>
+  DataShape Team, Inria<br>
+  Scuola Normale Superiore, Pisa<br>
   Applied Topology • Machine Learning • Researching <a href="https://www.projectceti.org/">whalespeak</a> at <a href="https://www.projectceti.org">CETI</a>.<br>
   Mathematician by trade, webdev and frontend on the side.<br>
 List of projects and publications <a href="https://antonio-leitao.github.io">here</a>.<br>
